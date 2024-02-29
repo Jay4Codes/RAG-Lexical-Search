@@ -1,3 +1,3 @@
 # RAG-Lexical-Search
 
-<img src="https://imgur.com/a/edKXufl" />
+<img src="https://i.imgur.com/oCuGZIR.png" />
